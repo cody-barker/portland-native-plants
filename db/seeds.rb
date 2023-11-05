@@ -5,7 +5,10 @@ species = [
    "speciesType": "Grass",
    "height": "3-6'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Alopecurus geniculatus",
@@ -13,7 +16,10 @@ species = [
    "speciesType": "Grass",
    "height": "20\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Bromus carinatus",
@@ -21,7 +27,10 @@ species = [
    "speciesType": "Grass",
    "height": "4'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Bromus vulgaris",
@@ -29,7 +38,10 @@ species = [
    "speciesType": "Grass",
    "height": "12\"",
    "lightRequirement": "Full Sun-Part Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Danthonia californica",
@@ -37,7 +49,10 @@ species = [
    "speciesType": "Grass",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Deschampsia caespitosa",
@@ -45,7 +60,10 @@ species = [
    "speciesType": "Grass",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Deschampsia elongata",
@@ -53,7 +71,10 @@ species = [
    "speciesType": "Grass",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Elymus glaucus",
@@ -61,7 +82,10 @@ species = [
    "speciesType": "Grass",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Festuca californica",
@@ -69,7 +93,10 @@ species = [
    "speciesType": "Grass",
    "height": "1-4'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Festuca romeri",
@@ -77,7 +104,10 @@ species = [
    "speciesType": "Grass",
    "height": "2-5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Glyceria leptostachya",
@@ -85,7 +115,10 @@ species = [
    "speciesType": "Grass",
    "height": "5'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Hordeum brachyantherum",
@@ -93,7 +126,10 @@ species = [
    "speciesType": "Grass",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Koeleria macrantha",
@@ -101,7 +137,10 @@ species = [
    "speciesType": "Grass",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Melica subulata",
@@ -109,7 +148,10 @@ species = [
    "speciesType": "Grass",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Poa secunda",
@@ -117,7 +159,10 @@ species = [
    "speciesType": "Grass",
    "height": "4'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Torreyochloa pallida ",
@@ -125,7 +170,10 @@ species = [
    "speciesType": "Grass",
    "height": "5'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Achillea millefolium",
@@ -133,7 +181,10 @@ species = [
    "speciesType": "Herb",
    "height": "8-20\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Achlys triphylla",
@@ -141,7 +192,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Adiantum pedatum ssp. aleuticum",
@@ -149,7 +203,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-3'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Allium acuminatum",
@@ -157,7 +214,10 @@ species = [
    "speciesType": "Herb",
    "height": "1'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Drought Tolerant, Dry"
+   "moistureRequirement": "Drought Tolerant, Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Allium amplectans",
@@ -165,7 +225,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Allium cernuum",
@@ -173,7 +236,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Anaphalis margaritacea",
@@ -181,7 +247,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Aquilegia formosa",
@@ -189,7 +258,10 @@ species = [
    "speciesType": "Herb",
    "height": "36\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Flooding"
+   "moistureRequirement": "Moist, Flooding",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Arctostaphylos uva-ursi",
@@ -197,7 +269,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-3'",
    "lightRequirement": "Full Sun-Full Shade",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Aruncus dioicus",
@@ -205,7 +280,10 @@ species = [
    "speciesType": "Herb",
    "height": "4-7'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Asarum caudatum",
@@ -213,7 +291,10 @@ species = [
    "speciesType": "Herb",
    "height": "1'",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Asclepias speciosa",
@@ -221,7 +302,10 @@ species = [
    "speciesType": "Herb",
    "height": "2-6'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Athyrium filix-femina",
@@ -229,7 +313,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-3'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Blechnum spicant",
@@ -237,7 +324,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-2'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Brodiaea coronaria",
@@ -245,7 +335,10 @@ species = [
    "speciesType": "Herb",
    "height": "3-10\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Brodiaea hyacinthina",
@@ -253,7 +346,10 @@ species = [
    "speciesType": "Herb",
    "height": "24\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Camassia leichtlinii",
@@ -261,7 +357,10 @@ species = [
    "speciesType": "Herb",
    "height": "28\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Camassia quamash",
@@ -269,7 +368,10 @@ species = [
    "speciesType": "Herb",
    "height": "28\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Cardamine nuttallii",
@@ -277,7 +379,10 @@ species = [
    "speciesType": "Herb",
    "height": "4-8\"",
    "lightRequirement": "Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex aperta",
@@ -285,7 +390,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex aquatilis",
@@ -293,7 +401,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex arcta",
@@ -301,7 +412,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex densa",
@@ -309,7 +423,10 @@ species = [
    "speciesType": "Herb",
    "height": "12-30\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex deweyana",
@@ -317,7 +434,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex feta",
@@ -325,7 +445,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex leptopoda",
@@ -333,7 +456,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex obnupta",
@@ -341,7 +467,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Mostly Wetland, Moist, Wet"
+   "moistureRequirement": "Mostly Wetland, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex pachystachya",
@@ -349,7 +478,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Drought Tolerant, Moist, Wet"
+   "moistureRequirement": "Drought Tolerant, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex pellita",
@@ -357,7 +489,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Drier Ground, Moist, Wet"
+   "moistureRequirement": "Drier Ground, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex rostrata",
@@ -365,7 +500,10 @@ species = [
    "speciesType": "Herb",
    "height": "4'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Wet, Standing Water"
+   "moistureRequirement": "Wet, Standing Water",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex scoparia",
@@ -373,7 +511,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex stipata",
@@ -381,7 +522,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex tumulicola",
@@ -389,7 +533,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex unilateralis",
@@ -397,7 +544,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex utriculata",
@@ -405,7 +555,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex vesicaria",
@@ -413,7 +566,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Carex vulpinoidea",
@@ -421,7 +577,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Cimicifuga elata",
@@ -429,7 +588,10 @@ species = [
    "speciesType": "Herb",
    "height": "7'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Chamerion angustifolium var. canescens",
@@ -437,7 +599,10 @@ species = [
    "speciesType": "Herb",
    "height": "3-8'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Clarkia amoena",
@@ -445,7 +610,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Clarkia purpurea",
@@ -453,7 +621,10 @@ species = [
    "speciesType": "Herb",
    "height": "20\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Claytonia sibirica",
@@ -461,7 +632,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Collinsia grandiflora",
@@ -469,7 +643,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Collinsia parviflora",
@@ -477,7 +654,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Collomia grandiflora",
@@ -485,7 +665,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Coreopsis tinctoria",
@@ -493,7 +676,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Corydalis scouleri",
@@ -501,7 +687,10 @@ species = [
    "speciesType": "Herb",
    "height": "3-4'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Cynoglossum grande",
@@ -509,7 +698,10 @@ species = [
    "speciesType": "Herb",
    "height": "30\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Delphinium trolliifolium",
@@ -517,7 +709,10 @@ species = [
    "speciesType": "Herb",
    "height": "2-6'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Epilobium densiflorum",
@@ -525,7 +720,10 @@ species = [
    "speciesType": "Herb",
    "height": "6-40\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Eriophyllum lanatum",
@@ -533,7 +731,10 @@ species = [
    "speciesType": "Herb",
    "height": "24\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Eschscholzia californica",
@@ -541,7 +742,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Dicentra formosa",
@@ -549,7 +753,10 @@ species = [
    "speciesType": "Herb",
    "height": "20\"",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Dichelostemma congestum",
@@ -557,7 +764,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Disporum hookeri",
@@ -565,7 +775,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Disporum smithii",
@@ -573,7 +786,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Dodecatheon pulchellum",
@@ -581,7 +797,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Xeric, Dry, Moist"
+   "moistureRequirement": "Xeric, Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Eleocharis palustris",
@@ -589,7 +808,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Erigeron speciosus",
@@ -597,7 +819,10 @@ species = [
    "speciesType": "Herb",
    "height": "30\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Erythronium oregonum",
@@ -605,7 +830,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Full Sun-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Fragaria chiloensis",
@@ -613,7 +841,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Fragaria vesca",
@@ -621,7 +852,10 @@ species = [
    "speciesType": "Herb",
    "height": "4-12\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Full-Part Sun"
+   "moistureRequirement": "Full-Part Sun",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Fragaria virginiana",
@@ -629,7 +863,10 @@ species = [
    "speciesType": "Herb",
    "height": "6\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Fritillaria affinis",
@@ -637,7 +874,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Geranium oreganum",
@@ -645,7 +885,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Geum macrophyllum",
@@ -653,7 +896,10 @@ species = [
    "speciesType": "Herb",
    "height": "24\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Gilia capitata",
@@ -661,7 +907,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Grindelia integrifolia",
@@ -669,7 +918,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Helenium autumnale",
@@ -677,7 +929,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Heracleum maximum",
@@ -685,7 +940,10 @@ species = [
    "speciesType": "Herb",
    "height": "3-9'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Heuchera chlorantha",
@@ -693,7 +951,10 @@ species = [
    "speciesType": "Herb",
    "height": "40\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Heuchera micrantha",
@@ -701,7 +962,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Hydrophyllum tenuipes",
@@ -709,7 +973,10 @@ species = [
    "speciesType": "Herb",
    "height": "30\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Iris douglasiana",
@@ -717,7 +984,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist, Flooding"
+   "moistureRequirement": "Dry, Moist, Flooding",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Iris tenax",
@@ -725,7 +995,10 @@ species = [
    "speciesType": "Herb",
    "height": "1-2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus acuminatus",
@@ -733,7 +1006,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus balticus",
@@ -741,7 +1017,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus effusus",
@@ -749,7 +1028,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus ensifolius",
@@ -757,7 +1039,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus nevadensis",
@@ -765,7 +1050,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus patens",
@@ -773,7 +1061,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Juncus tenuis",
@@ -781,7 +1072,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lithrophragma parviflorum",
@@ -789,7 +1083,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lilium columbianum",
@@ -797,7 +1094,10 @@ species = [
    "speciesType": "Herb",
    "height": "4'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lomatium dissectum",
@@ -805,7 +1105,10 @@ species = [
    "speciesType": "Herb",
    "height": "4'",
    "lightRequirement": "Full-Part",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lomatium nudicaule",
@@ -813,7 +1116,10 @@ species = [
    "speciesType": "Herb",
    "height": "10-30\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lomatium utriculatum",
@@ -821,7 +1127,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, good drainage"
+   "moistureRequirement": "Dry, good drainage",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lotus micranthus",
@@ -829,7 +1138,10 @@ species = [
    "speciesType": "Herb",
    "height": "4-10\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lotus purshianus",
@@ -837,7 +1149,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Drought Tolerant, Dry, Moist"
+   "moistureRequirement": "Drought Tolerant, Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lupinus bicolor",
@@ -845,7 +1160,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lupinus polycarpus",
@@ -853,7 +1171,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full sun",
-   "moistureRequirement": "Drought Tolerant, Dry, Moist"
+   "moistureRequirement": "Drought Tolerant, Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lupinus polyphyllus",
@@ -861,7 +1182,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lupinus rivularis",
@@ -869,7 +1193,10 @@ species = [
    "speciesType": "Herb",
    "height": "3.5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Luzula comosa",
@@ -877,7 +1204,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist, Wet"
+   "moistureRequirement": "Dry, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lycopus uniflorus",
@@ -885,7 +1215,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Madia elegans",
@@ -893,7 +1226,10 @@ species = [
    "speciesType": "Herb",
    "height": "36\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Madia gracilis",
@@ -901,7 +1237,10 @@ species = [
    "speciesType": "Herb",
    "height": "40\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Micranthes occidentalis",
@@ -909,7 +1248,10 @@ species = [
    "speciesType": "Herb",
    "height": "10\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist, Wet"
+   "moistureRequirement": "Dry, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Micranthes oregana",
@@ -917,7 +1259,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Microsteris gracilis",
@@ -925,7 +1270,10 @@ species = [
    "speciesType": "Herb",
    "height": "8\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Mimulus guttatus",
@@ -933,7 +1281,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Oxalis oregana",
@@ -941,7 +1292,10 @@ species = [
    "speciesType": "Herb",
    "height": "6\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Penstemon ovatus",
@@ -949,7 +1303,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Perideridia oregana",
@@ -957,7 +1314,10 @@ species = [
    "speciesType": "Herb",
    "height": "2-5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Petasites frigidus",
@@ -965,7 +1325,10 @@ species = [
    "speciesType": "Herb",
    "height": "12-14\"",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Phacelia heterophylla",
@@ -973,7 +1336,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Plagiobothrys figuratus",
@@ -981,7 +1347,10 @@ species = [
    "speciesType": "Herb",
    "height": "6-15\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Plagiobothrys scouleri",
@@ -989,7 +1358,10 @@ species = [
    "speciesType": "Herb",
    "height": "8\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Plectritis congesta",
@@ -997,7 +1369,10 @@ species = [
    "speciesType": "Herb",
    "height": "22\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Polygonum hydropiperoides",
@@ -1005,7 +1380,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Polypodium glycyrrhiza",
@@ -1013,7 +1391,10 @@ species = [
    "speciesType": "Herb",
    "height": "12\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Potentilla glandulosa",
@@ -1021,7 +1402,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Potentilla gracilis",
@@ -1029,7 +1413,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Prunella vulgaris ssp. lanceolata",
@@ -1037,7 +1424,10 @@ species = [
    "speciesType": "Herb",
    "height": "20\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Pteridium aquilinum",
@@ -1045,7 +1435,10 @@ species = [
    "speciesType": "Herb",
    "height": "3-4'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ranunculus occidentalis",
@@ -1053,7 +1446,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ranunculus orthorhynchus",
@@ -1061,7 +1457,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rumex salicifolius",
@@ -1069,7 +1468,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Drought Tolerant, Moist"
+   "moistureRequirement": "Drought Tolerant, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sagittaria latifolia",
@@ -1077,7 +1479,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Semi-aquatic"
+   "moistureRequirement": "Semi-aquatic",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sanguisorba annua",
@@ -1085,7 +1490,10 @@ species = [
    "speciesType": "Herb",
    "height": "25\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Satureja douglasii",
@@ -1093,7 +1501,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Scirpus microcarpus",
@@ -1101,7 +1512,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Scirpus validus",
@@ -1109,7 +1523,10 @@ species = [
    "speciesType": "Herb",
    "height": "6-8'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet, Aquatic"
+   "moistureRequirement": "Moist, Wet, Aquatic",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Scrophularia californica",
@@ -1117,7 +1534,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sedum spathulifolium",
@@ -1125,7 +1545,10 @@ species = [
    "speciesType": "Herb",
    "height": "6\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Xeric, Dry"
+   "moistureRequirement": "Xeric, Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sidalcea campestris",
@@ -1133,7 +1556,10 @@ species = [
    "speciesType": "Herb",
    "height": "7'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sidalcea virgata",
@@ -1141,7 +1567,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sisyrinchium idahoense",
@@ -1149,7 +1578,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Smilacina racemosa",
@@ -1157,7 +1589,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Smilacina stellata",
@@ -1165,7 +1600,10 @@ species = [
    "speciesType": "Herb",
    "height": "2'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Solidago canadensis",
@@ -1173,7 +1611,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Solidago elongata",
@@ -1181,7 +1622,10 @@ species = [
    "speciesType": "Herb",
    "height": "6'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Solidago lepida",
@@ -1189,7 +1633,10 @@ species = [
    "speciesType": "Herb",
    "height": "5'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Drought Tolerant, Moist"
+   "moistureRequirement": "Drought Tolerant, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sparganium emersum",
@@ -1197,7 +1644,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Wet, Aquatic"
+   "moistureRequirement": "Wet, Aquatic",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Symphyotrichum hallii",
@@ -1205,7 +1655,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Symphyotrichum subspicatum",
@@ -1213,7 +1666,10 @@ species = [
    "speciesType": "Herb",
    "height": "3'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Synthyris reniformis",
@@ -1221,7 +1677,10 @@ species = [
    "speciesType": "Herb",
    "height": "2-6\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Thalictrum occidentale",
@@ -1229,7 +1688,10 @@ species = [
    "speciesType": "Herb",
    "height": "24-36\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist, Flooding"
+   "moistureRequirement": "Moist, Flooding",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Tellima grandiflora",
@@ -1237,7 +1699,10 @@ species = [
    "speciesType": "Herb",
    "height": "12-24\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Tolmiea menziesii",
@@ -1245,7 +1710,10 @@ species = [
    "speciesType": "Herb",
    "height": "12-30\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist, Flooding"
+   "moistureRequirement": "Moist, Flooding",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Trillium chloropetalum",
@@ -1253,7 +1721,10 @@ species = [
    "speciesType": "Herb",
    "height": "16\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Trillium ovatum",
@@ -1261,7 +1732,10 @@ species = [
    "speciesType": "Herb",
    "height": "18\"",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Triteleia hyacinthina",
@@ -1269,7 +1743,10 @@ species = [
    "speciesType": "Herb",
    "height": "24\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Vancouveria hexandra",
@@ -1277,7 +1754,10 @@ species = [
    "speciesType": "Herb",
    "height": "15\"",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Viola adunca",
@@ -1285,7 +1765,10 @@ species = [
    "speciesType": "Herb",
    "height": "4\"",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Viola glabella",
@@ -1293,7 +1776,10 @@ species = [
    "speciesType": "Herb",
    "height": "20\"",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Viola praemorsa",
@@ -1301,7 +1787,10 @@ species = [
    "speciesType": "Herb",
    "height": "1'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Wyethia angustifolia",
@@ -1309,7 +1798,10 @@ species = [
    "speciesType": "Herb",
    "height": "18\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Acer circinatum",
@@ -1317,7 +1809,10 @@ species = [
    "speciesType": "Shrub",
    "height": "25'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Amerlanchier alnifolia",
@@ -1325,7 +1820,10 @@ species = [
    "speciesType": "Shrub",
    "height": "15'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ceanothus sanguineus",
@@ -1333,7 +1831,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ceanothus velutinus",
@@ -1341,7 +1842,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Cornus sericea",
@@ -1349,7 +1853,10 @@ species = [
    "speciesType": "Shrub",
    "height": "20'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Euonymous occidentalli",
@@ -1357,7 +1864,10 @@ species = [
    "speciesType": "Shrub",
    "height": "12'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moise"
+   "moistureRequirement": "Moise",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Gaultheria shallon",
@@ -1365,7 +1875,10 @@ species = [
    "speciesType": "Shrub",
    "height": "3'",
    "lightRequirement": "Full Sun-Full Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Holodiscus discolor",
@@ -1373,7 +1886,10 @@ species = [
    "speciesType": "Shrub",
    "height": "13'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Lonicera involucrata",
@@ -1381,7 +1897,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Mahonia aquifolium",
@@ -1389,7 +1908,10 @@ species = [
    "speciesType": "Shrub",
    "height": "6'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Mahonia nervosa",
@@ -1397,7 +1919,10 @@ species = [
    "speciesType": "Shrub",
    "height": "2'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Mahonia repens",
@@ -1405,7 +1930,10 @@ species = [
    "speciesType": "Shrub",
    "height": "12\"",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Oemleria cerasiformis",
@@ -1413,7 +1941,10 @@ species = [
    "speciesType": "Shrub",
    "height": "15'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Oplopanax horridus",
@@ -1421,7 +1952,10 @@ species = [
    "speciesType": "Shrub",
    "height": "3-10'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Philadelphus lewisii",
@@ -1429,7 +1963,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Physocarpus capitatus",
@@ -1437,7 +1974,10 @@ species = [
    "speciesType": "Shrub",
    "height": "13'",
    "lightRequirement": "Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Potentilla fruticosa",
@@ -1445,7 +1985,10 @@ species = [
    "speciesType": "Shrub",
    "height": "2-4'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Polystichum munitum",
@@ -1453,7 +1996,10 @@ species = [
    "speciesType": "Shrub",
    "height": "4'",
    "lightRequirement": "Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rhamnus purshiana",
@@ -1461,7 +2007,10 @@ species = [
    "speciesType": "Shrub",
    "height": "30'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist, Wet"
+   "moistureRequirement": "Dry, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rhododendron macrophyllum",
@@ -1469,7 +2018,10 @@ species = [
    "speciesType": "Shrub",
    "height": "12-36'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rhododendron occidentale",
@@ -1477,7 +2029,10 @@ species = [
    "speciesType": "Shrub",
    "height": "3-13'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ribes divaricatum",
@@ -1485,7 +2040,10 @@ species = [
    "speciesType": "Shrub",
    "height": "3-7'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Ribes sanguineum",
@@ -1493,7 +2051,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rosa gymnocarpa",
@@ -1501,7 +2062,10 @@ species = [
    "speciesType": "Shrub",
    "height": "5'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rosa pisocarpa",
@@ -1509,7 +2073,10 @@ species = [
    "speciesType": "Shrub",
    "height": "4-10'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rubus leucodermis",
@@ -1517,7 +2084,10 @@ species = [
    "speciesType": "Shrub",
    "height": "7'",
    "lightRequirement": "Full-Part Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rubus parviflorus",
@@ -1525,7 +2095,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rubus spectabilis",
@@ -1533,7 +2106,10 @@ species = [
    "speciesType": "Shrub",
    "height": "13'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Rubus ursinus",
@@ -1541,7 +2117,10 @@ species = [
    "speciesType": "Shrub",
    "height": "16'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix exigua var. columbiana",
@@ -1549,7 +2128,10 @@ species = [
    "speciesType": "Shrub",
    "height": "20'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Wet"
+   "moistureRequirement": "Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix exigua var. sessilifolia",
@@ -1557,7 +2139,10 @@ species = [
    "speciesType": "Shrub",
    "height": "25'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix hookeriana",
@@ -1565,7 +2150,10 @@ species = [
    "speciesType": "Shrub",
    "height": "20'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix lasiandra var. lasiandra",
@@ -1573,7 +2161,10 @@ species = [
    "speciesType": "Shrub",
    "height": "40'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix prolixa",
@@ -1581,7 +2172,10 @@ species = [
    "speciesType": "Shrub",
    "height": "30'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix scouleriana",
@@ -1589,7 +2183,10 @@ species = [
    "speciesType": "Shrub",
    "height": "40'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Salix sitchensis",
@@ -1597,7 +2194,10 @@ species = [
    "speciesType": "Shrub",
    "height": "25'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sambucus cerulea",
@@ -1605,7 +2205,10 @@ species = [
    "speciesType": "Shrub",
    "height": "12'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Sambucus racemosa",
@@ -1613,7 +2216,10 @@ species = [
    "speciesType": "Shrub",
    "height": "20'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Spirea douglasii",
@@ -1621,7 +2227,10 @@ species = [
    "speciesType": "Shrub",
    "height": "7'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Symphoricarpos albus",
@@ -1629,7 +2238,10 @@ species = [
    "speciesType": "Shrub",
    "height": "7'",
    "lightRequirement": "Full Sun-Full Shade",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Viburnum ellipticum",
@@ -1637,7 +2249,10 @@ species = [
    "speciesType": "Shrub",
    "height": "10'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Abies grandis",
@@ -1645,7 +2260,10 @@ species = [
    "speciesType": "Tree",
    "height": "260'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Acer macrophyllum",
@@ -1653,7 +2271,10 @@ species = [
    "speciesType": "Tree",
    "height": "80'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Alnus incana",
@@ -1661,7 +2282,10 @@ species = [
    "speciesType": "Tree",
    "height": "15-25'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Alnus rhombifolia",
@@ -1669,7 +2293,10 @@ species = [
    "speciesType": "Tree",
    "height": "15-65'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Alnus rubra",
@@ -1677,7 +2304,10 @@ species = [
    "speciesType": "Tree",
    "height": "80'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Arbutus menziesii",
@@ -1685,7 +2315,10 @@ species = [
    "speciesType": "Tree",
    "height": "50'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry"
+   "moistureRequirement": "Dry",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Cornus nuttallii",
@@ -1693,7 +2326,10 @@ species = [
    "speciesType": "Tree",
    "height": "65'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Crataegus douglasii",
@@ -1701,7 +2337,10 @@ species = [
    "speciesType": "Tree",
    "height": "33'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Fraxinus latifolia",
@@ -1709,7 +2348,10 @@ species = [
    "speciesType": "Tree",
    "height": "80'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Malus fusca",
@@ -1717,7 +2359,10 @@ species = [
    "speciesType": "Tree",
    "height": "40'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Pinus ponderosa",
@@ -1725,7 +2370,10 @@ species = [
    "speciesType": "Tree",
    "height": "200'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Populus trichocarpa",
@@ -1733,7 +2381,10 @@ species = [
    "speciesType": "Tree",
    "height": "165'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Prunus emarginata",
@@ -1741,7 +2392,10 @@ species = [
    "speciesType": "Tree",
    "height": "50'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Moist"
+   "moistureRequirement": "Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Prunus virginiana",
@@ -1749,7 +2403,10 @@ species = [
    "speciesType": "Tree",
    "height": "30'",
    "lightRequirement": "Full-Part Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Pseudotsuga menziesii",
@@ -1757,7 +2414,10 @@ species = [
    "speciesType": "Tree",
    "height": "200'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Quercus garryana",
@@ -1765,7 +2425,10 @@ species = [
    "speciesType": "Tree",
    "height": "80'",
    "lightRequirement": "Full Sun",
-   "moistureRequirement": "Dry, Moist"
+   "moistureRequirement": "Dry, Moist",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Thuja plicata",
@@ -1773,7 +2436,10 @@ species = [
    "speciesType": "Tree",
    "height": "200'",
    "lightRequirement": "Part-Full Shade",
-   "moistureRequirement": "Moist, Wet"
+   "moistureRequirement": "Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  },
  {
    "binomialName": "Tsuga heterophylla",
@@ -1781,47 +2447,10 @@ species = [
    "speciesType": "Tree",
    "height": "200'",
    "lightRequirement": "Full Sun-Full Shade",
-   "moistureRequirement": "Dry, Moist, Wet"
- },
- {
-   "binomialName": "Actae rubra",
-   "commonName": "Baneberry",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "",
-   "commonName": "False hellebore",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "",
-   "commonName": "Beggars Tick",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "",
-   "commonName": "Water Parsley",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "Urtica dioica",
-   "commonName": "Stinging Nettle",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
+   "moistureRequirement": "Dry, Moist, Wet",
+   "photo": "",
+   "photographer": "",
+   "acknowledgement": ""
  }
 ]
 
