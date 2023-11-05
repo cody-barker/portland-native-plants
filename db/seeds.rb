@@ -1784,8 +1784,8 @@ species = [
    "moistureRequirement": "Dry, Moist, Wet"
  },
  {
-   "binomialName": "",
-   "commonName": "",
+   "binomialName": "Actae rubra",
+   "commonName": "Baneberry",
    "speciesType": "",
    "height": "",
    "lightRequirement": "",
@@ -1793,7 +1793,7 @@ species = [
  },
  {
    "binomialName": "",
-   "commonName": "",
+   "commonName": "False hellebore",
    "speciesType": "",
    "height": "",
    "lightRequirement": "",
@@ -1801,63 +1801,23 @@ species = [
  },
  {
    "binomialName": "",
-   "commonName": "",
+   "commonName": "Beggars Tick",
    "speciesType": "",
    "height": "",
    "lightRequirement": "",
    "moistureRequirement": ""
  },
  {
-   "binomialName": "Plants not included due to ",
-   "commonName": "",
+   "binomialName": "",
+   "commonName": "Water Parsley",
    "speciesType": "",
    "height": "",
    "lightRequirement": "",
    "moistureRequirement": ""
  },
  {
-   "binomialName": "toxicity and physical concern",
-   "commonName": "",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "Baneberry",
-   "commonName": "",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "False hellebore",
-   "commonName": "",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "Beggars Tick",
-   "commonName": "",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "Water Parsley",
-   "commonName": "",
-   "speciesType": "",
-   "height": "",
-   "lightRequirement": "",
-   "moistureRequirement": ""
- },
- {
-   "binomialName": "Urtica dioica - great plant; not for all homeowners",
-   "commonName": "",
+   "binomialName": "Urtica dioica",
+   "commonName": "Stinging Nettle",
    "speciesType": "",
    "height": "",
    "lightRequirement": "",
