@@ -852,7 +852,7 @@ species = [
     "speciesType": "Herb",
     "height": 1,
     "lightRequirement": "Part-Full Shade",
-    "moistureRequirement": "Full-Part Sun",
+    "moistureRequirement": "Dry, Moist",
     "photo": "",
     "photographer": "Greg Rabourn",
     "acknowledgement": "www.kingcounty.gov/gonative"
