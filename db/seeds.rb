@@ -1081,7 +1081,7 @@ species = [
     "binomialName": "Lithrophragma parviflorum",
     "commonName": "Small Flowered Fringecup",
     "speciesType": "Herb",
-    "height": 12,
+    "height": 1,
     "lightRequirement": "Full-Part Sun",
     "moistureRequirement": "Moist",
     "photo": "",
