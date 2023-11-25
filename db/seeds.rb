@@ -2461,7 +2461,7 @@ end
 admin = Admin.create!(
   {
     username: "admin",
-    password: "A9s2d8f3!",
-    password_confirmation: "A9s2d8f3!"
+    password: "admin",
+    password_confirmation: "admin"
   }
 )
