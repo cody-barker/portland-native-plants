@@ -2457,11 +2457,3 @@ species = [
 species.each do |species_object|
   species = Species.create!(species_object)
 end
-
-admin = Admin.create!(
-  {
-    username: "admin",
-    password: "admin",
-    password_confirmation: "admin"
-  }
-)
