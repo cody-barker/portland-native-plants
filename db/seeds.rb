@@ -137,7 +137,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -324,7 +324,7 @@ species = [
    "species_type": "Herb",
    "height": "2-4",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -335,7 +335,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -346,7 +346,7 @@ species = [
    "species_type": "Tree",
    "height": "30-75",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -456,7 +456,7 @@ species = [
    "species_type": "Shrub",
    "height": "5-10",
    "light": "Partial Shade to Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -467,7 +467,7 @@ species = [
    "species_type": "Shrub",
    "height": "2-5",
    "light": "Partial Shade to Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -544,7 +544,7 @@ species = [
    "species_type": "Grass",
    "height": "2-4",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -566,7 +566,7 @@ species = [
    "species_type": "Grass",
    "height": "0.5-2",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -654,7 +654,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -775,7 +775,7 @@ species = [
    "species_type": "Sedge",
    "height": "0.5-1",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -830,7 +830,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-10",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -841,7 +841,7 @@ species = [
    "species_type": "Shrub",
    "height": "2-15",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -852,7 +852,7 @@ species = [
    "species_type": "Shrub",
    "height": "5-15",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -863,7 +863,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -874,7 +874,7 @@ species = [
    "species_type": "Herb",
    "height": "3-6",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -962,7 +962,7 @@ species = [
    "species_type": "Herb",
    "height": "6-12",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1127,7 +1127,7 @@ species = [
    "species_type": "Shrub",
    "height": "6-15",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1149,7 +1149,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1424,7 +1424,7 @@ species = [
    "species_type": "Grass",
    "height": "1-3",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1435,7 +1435,7 @@ species = [
    "species_type": "Grass",
    "height": "1-4",
    "light": "Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1479,7 +1479,7 @@ species = [
    "species_type": "Fern",
    "height": "0.5-2",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1490,7 +1490,7 @@ species = [
    "species_type": "Fern",
    "height": "2-4",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1578,7 +1578,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Partial Shade to Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1589,7 +1589,7 @@ species = [
    "species_type": "Grass",
    "height": "1-3",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1644,7 +1644,7 @@ species = [
    "species_type": "Herb",
    "height": "6-12",
    "light": "Partial Shade to Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1710,7 +1710,7 @@ species = [
    "species_type": "Herb",
    "height": "0.33-0.67",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -1875,7 +1875,7 @@ species = [
    "species_type": "Shrub",
    "height": "6-12",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2150,7 +2150,7 @@ species = [
    "species_type": "Vine",
    "height": "3-9",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2183,7 +2183,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2194,7 +2194,7 @@ species = [
    "species_type": "Herb",
    "height": "0.5-2",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2601,7 +2601,7 @@ species = [
    "species_type": "Herb",
    "height": "0.1-0.5",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2645,7 +2645,7 @@ species = [
    "species_type": "Herb",
    "height": "1-6",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2755,7 +2755,7 @@ species = [
    "species_type": "Tree",
    "height": "60-200",
    "light": "Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2865,7 +2865,7 @@ species = [
    "species_type": "Tree",
    "height": "20-80",
    "light": "Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2920,7 +2920,7 @@ species = [
    "species_type": "Herb",
    "height": "1-2",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2931,7 +2931,7 @@ species = [
    "species_type": "Herb",
    "height": "1-2",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2953,7 +2953,7 @@ species = [
    "species_type": "Shrub",
    "height": "6-20",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -2986,7 +2986,7 @@ species = [
    "species_type": "Fern",
    "height": "1-3",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3019,7 +3019,7 @@ species = [
    "species_type": "Tree",
    "height": "20-80",
    "light": "Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3107,7 +3107,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3118,7 +3118,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3195,7 +3195,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3206,7 +3206,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Partial Shade to Full Sun",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3294,7 +3294,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-15",
    "light": "Sun to Partial Shade",
-   "moisture": "Wet to Moist",
+   "moisture": "Moist to Wet",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3316,7 +3316,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-20",
    "light": "Sun to Partial Shade",
-   "moisture": "Wet to Moist",
+   "moisture": "Moist to Wet",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3327,7 +3327,7 @@ species = [
    "species_type": "Shrub",
    "height": "10-20",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3635,7 +3635,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3679,7 +3679,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-6",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -3701,7 +3701,7 @@ species = [
    "species_type": "Herb",
    "height": "1-3",
    "light": "Full Sun to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
@@ -4020,7 +4020,7 @@ species = [
    "species_type": "Shrub",
    "height": "3-9",
    "light": "Shade to Partial Shade",
-   "moisture": "Moist to Dry",
+   "moisture": "Dry to Moist",
    "photo": "",
    "photographer": "Greg Rabourn",
    "acknowledgement": "www.kingcounty.gov/gonative"
