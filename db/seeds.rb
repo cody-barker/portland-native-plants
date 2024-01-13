@@ -13,7 +13,7 @@ species = [
  {
    "binomial_name": "Acer circinatum",
    "common_name": "Vine Maple",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "15-25",
    "light": "Shade to Partial Shade",
    "moisture": "Dry to Moist",
@@ -244,7 +244,7 @@ species = [
  {
    "binomial_name": "Amelanchier alnifolia",
    "common_name": "Western Serviceberry",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-20",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -1069,7 +1069,7 @@ species = [
  {
    "binomial_name": "Corlyus cornuta ssp. californica",
    "common_name": "California Hazelnut",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-12",
    "light": "Partial Shade to Full Sun",
    "moisture": "Moist",
@@ -1080,7 +1080,7 @@ species = [
  {
    "binomial_name": "Cornus nuttallii",
    "common_name": "Western Flowering Dogwood",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "15-30",
    "light": "Partial Shade to Full Sun",
    "moisture": "Moist",
@@ -1124,7 +1124,7 @@ species = [
  {
    "binomial_name": "Crataegus gaylussacia",
    "common_name": "Suksdorf’s hawthorn",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-15",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Dry",
@@ -1663,7 +1663,7 @@ species = [
  {
    "binomial_name": "Frangula purshiana",
    "common_name": "Cascara, chitum",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "15-30",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist",
@@ -1960,7 +1960,7 @@ species = [
  {
    "binomial_name": "Juncus ensifolius",
    "common_name": "Dagger–leaf Rush",
-   "species_type": "Rush/Sedge",
+   "species_type": "Rush",
    "height": "1-3",
    "light": "Sun to Partial Shade",
    "moisture": "Wet",
@@ -2147,7 +2147,7 @@ species = [
  {
    "binomial_name": "Lonicera hispidula",
    "common_name": "Hairy Honeysuckle",
-   "species_type": "Vine/Shrub",
+   "species_type": "Vine",
    "height": "3-9",
    "light": "Shade to Partial Shade",
    "moisture": "Moist to Dry",
@@ -2554,7 +2554,7 @@ species = [
  {
    "binomial_name": "Nuphar polysepala",
    "common_name": "Yellow Water–lily",
-   "species_type": "Aquatic",
+   "species_type": "Herb",
    "height": "1-3",
    "light": "Sun to Partial Shade",
    "moisture": "Aquatic",
@@ -2565,7 +2565,7 @@ species = [
  {
    "binomial_name": "Oemleria cerasiformis",
    "common_name": "Indian Plum",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "10-20",
    "light": "Shade to Partial Shade",
    "moisture": "Moist to Wet",
@@ -2961,7 +2961,7 @@ species = [
  {
    "binomial_name": "Prunus emarginata",
    "common_name": "Bitter Cherry",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-20",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Dry",
@@ -2972,7 +2972,7 @@ species = [
  {
    "binomial_name": "Prunus virginiana",
    "common_name": "Common Chokecherry",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-18",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -3269,7 +3269,7 @@ species = [
  {
    "binomial_name": "Salix exigua var. columbiana",
    "common_name": "Columbia River Willow",
-   "species_type": "Shrub/Small Tree",
+   "species_type": "Shrub",
    "height": "3-20",
    "light": "Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -3346,7 +3346,7 @@ species = [
  {
    "binomial_name": "Salix scouleriana",
    "common_name": "Scouler Willow",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-30",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist",
@@ -3357,7 +3357,7 @@ species = [
  {
    "binomial_name": "Salix sitchensis",
    "common_name": "Sitka Willow",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "15-30",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -3379,7 +3379,7 @@ species = [
  {
    "binomial_name": "Sambucus nigra ssp. caerulea",
    "common_name": "Blue Elderberry",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-20",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -3390,7 +3390,7 @@ species = [
  {
    "binomial_name": "Sambucus racemosa var. arborescens",
    "common_name": "Red Elderberry",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "6-20",
    "light": "Full Sun to Partial Shade",
    "moisture": "Moist to Wet",
@@ -3731,7 +3731,7 @@ species = [
  {
    "binomial_name": "Taxus brevifolia",
    "common_name": "Pacific Yew",
-   "species_type": "Shrub/Tree",
+   "species_type": "Shrub",
    "height": "3-50",
    "light": "Shade to Partial Shade",
    "moisture": "Moist",
