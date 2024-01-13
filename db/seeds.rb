@@ -2728,19 +2728,8 @@ species = [
    "acknowledgement": "www.kingcounty.gov/gonative"
  },
  {
-   "binomial_name": "Phlox gracilis",
-   "common_name": "Microsteris",
-   "species_type": "Herb",
-   "height": "3-6",
-   "light": "Full Sun to Partial Shade",
-   "moisture": "Dry to Moist",
-   "photo": "",
-   "photographer": "Greg Rabourn",
-   "acknowledgement": "www.kingcounty.gov/gonative"
- },
- {
    "binomial_name": "Phlox gracilis Microsteris",
-   "common_name": "",
+   "common_name": "Slender Phlox",
    "species_type": "Herb",
    "height": "1-3",
    "light": "Full Sun to Partial Shade",
