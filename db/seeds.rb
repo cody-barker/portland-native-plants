@@ -4195,3 +4195,5 @@ species = [
 species.each do |species_object|
   species = Species.create!(species_object)
 end
+
+Admin.create(username: "admin", password: "admin")
